@@ -4,8 +4,8 @@
 
 layout: home
 list_title: "Projects"
+title: Overview
 ---
-## Overviews
 
 This site is intended to showcase some of my data engineering projects.These projects use ETL pipelines to extract and prepare data, and dashboards to display analysis of the data and allow for user interaction.
 
