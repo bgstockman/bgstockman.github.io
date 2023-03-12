@@ -5,7 +5,7 @@
 layout: home
 list_title: "Projects"
 ---
-## Data Engineering Portfolio Projects
+## Overview
 
 This site is intended to showcase some of my data engineering projects.These projects use ETL pipelines to extract and prepare data, and dashboards to display analysis of the data and allow for user interaction.
 
